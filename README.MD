@@ -1,5 +1,5 @@
 # Image out painting using keras
-Implementation based on ![repo](https://github.com/bendangnuksung/Image-OutPainting)
+Implementation based on this [github-repo](https://github.com/bendangnuksung/Image-OutPainting)
 
 The model for trained on kaggle GPU kernel for 300 epochs
 
