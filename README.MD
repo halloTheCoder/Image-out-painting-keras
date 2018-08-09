@@ -21,7 +21,7 @@ The model for trained on kaggle GPU kernel for 300 epochs
 
 ### Note
 - Data is not generalized since in some of the images the missing parts lack relation with the maksed part. Can be improved by changing `MASK_PERCENTAGE` in code but will also need to change the `img_size = 256`
-- Hence, after many epochs it tends to overfit as we see that model learns those representations which it should not.
+- Hence, after many epochs it tends to overfit as we see that model learns those representations which it should not like hills in below image which is missing in case of masked image.
 
 
 ![](data/cdmc848.jpg)
