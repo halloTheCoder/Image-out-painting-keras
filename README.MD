@@ -24,4 +24,4 @@ The model for trained on kaggle GPU kernel for 300 epochs
 - Hence, after many epochs it tends to overfit as we see that model learns those representations which it should not like hills in below image which is missing in case of masked image.
 
 
-![](data/cdmc848.jpg)
+![](data/raw_data/cdmc848.jpg)
